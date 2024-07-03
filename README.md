@@ -3,9 +3,9 @@ Computer Organization - Spring 2024
 ## Iran Univeristy of Science and Technology
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
-- Name: Seyed AmirHossein Sharifi
-- Team Members:
-- Student ID: 400412355
+- Name: Seyed AmirHossein Sharifi 400412355
+- Team Members:Ali Hemmati , Abdollah Khalaj
+- Student ID: 400414012 , 400412004
 - Date: 5/25/2024
 
 ## Report
